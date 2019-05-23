@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cprops.error
+---
+testFramework: junit
+sourceLanguage: java
